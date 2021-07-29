@@ -1,0 +1,20 @@
+body {
+background: linear-gradient(aqua 0%, purple 100%)
+}
+.im {
+color: firebrick;
+font-family: 'Hachi Maru Pop', cursive;
+}
+.mc {
+color: firebrick;
+font-family: 'Hachi Maru Pop', cursive;
+}
+.gc {
+color: lightcoral;
+font-family: 'Hachi Maru Pop', cursive;
+}
+p {
+font-family:  cursive;
+color: deepskyblue;
+font-size: 18px;
+}
